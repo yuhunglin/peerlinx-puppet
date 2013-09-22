@@ -1,0 +1,7 @@
+.vagrant
+puppet/.librarian
+puppet/.tmp
+
+# Handled by librarian-puppet
+puppet/modules
+puppet/vendor/puppet/cache
